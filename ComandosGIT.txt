@@ -1,0 +1,22 @@
+﻿CLONAR EL REPOSITORIO
+----------------------------------------------
+
+git clone https://github.com/gcoronelc/UNI-FIM-20231-MB545-E.git
+
+
+
+ACTUALIZAR EL REPOSITORIO
+----------------------------------------------
+
+git pull
+
+
+
+DESCARTAR MODIFICACIONES
+(borrar tus cambios)
+----------------------------------------------
+
+git checkout .
+
+
+
