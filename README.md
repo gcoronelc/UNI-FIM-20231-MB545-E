@@ -9,8 +9,8 @@
 - Horario 2: JUE de 19 a 22 Horas (Practica)
 - Inicio: 27.MAR.2023
 - Delegado: Marco Laynes Caire
-- Subdelegado 1: 
-- Subdelegado 2: 
+- Subdelegado 1: Fabián Inga Campos
+- Subdelegado 2: Erick Cuadros
 
 
 # DOCENTE
