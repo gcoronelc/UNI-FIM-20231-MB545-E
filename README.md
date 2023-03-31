@@ -8,7 +8,7 @@
 - Horario 1: LUN de 17 a 20 Horas (Teoria)
 - Horario 2: JUE de 19 a 22 Horas (Practica)
 - Inicio: 27.MAR.2023
-- Delegado: 
+- Delegado: Marco Laynes Caire
 - Subdelegado 1: 
 - Subdelegado 2: 
 
