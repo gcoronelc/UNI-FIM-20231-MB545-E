@@ -1,0 +1,5 @@
+C:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana03\ProyectoSemana03\x64\Debug\Ijwhost.dll
+C:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana03\ProyectoSemana03\x64\Debug\ProyectoSemana03.deps.json
+C:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana03\ProyectoSemana03\x64\Debug\ProyectoSemana03.runtimeconfig.json
+C:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana03\ProyectoSemana03\ProyectoSemana03\x64\Debug\ProyectoSemana03.vcxproj.AssemblyReference.cache
+C:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana03\ProyectoSemana03\ProyectoSemana03\x64\Debug\ProyectoSemana03.genruntimeconfig.cache
