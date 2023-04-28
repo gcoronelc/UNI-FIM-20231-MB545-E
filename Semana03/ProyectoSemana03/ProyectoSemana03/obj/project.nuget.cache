@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HdWGs3UkD2x7ovhY8y45+mnipV5xXIWy7hgXW0yG9e5jepJ1dVRyrXlrOZWkwAJmzAPw1mNtl2zwo1CoTCxPPQ==",
+  "dgSpecHash": "0QO7q4cKgYjBZGt11z+Mm7ZDWT4uUg8S0h2ImPIsajyxUer1VdXcimYxO67JgUUTni5dxtFkOxAop4YTqIQPjg==",
   "success": true,
   "projectFilePath": "C:\\GustavoCoronel\\UNI-FIM-20231-MB545-E\\Semana03\\ProyectoSemana03\\ProyectoSemana03\\ProyectoSemana03.vcxproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
