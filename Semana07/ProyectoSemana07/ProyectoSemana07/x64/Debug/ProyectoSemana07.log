@@ -1,0 +1,3 @@
+﻿  Demo.cpp
+D:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana07\ProyectoSemana07\ProyectoSemana07\Demo.cpp(38,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ProyectoSemana07.vcxproj -> D:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana07\ProyectoSemana07\x64\Debug\ProyectoSemana07.exe

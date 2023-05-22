@@ -1,0 +1,8 @@
+EXAMEN PARCIAL
+=====================================
+- Estructuras de control
+- Funciones
+- Arreglos
+
+
+
