@@ -1,6 +1,5 @@
 Este es un ejemplo de archivo.
 Esto se pone bueno.
-Ahora todos mis datos iran a archivos.Hola, mi nombre es Gustavo Coronel
-Soy de Chiclayo y vivo en Lima
-Estoy casado y tengo 3 hijos
-Mis hijos son Maria Fernanda, Sofia Fernanda y Angel Gustavo.
+Ahora todos mis datos iran a archivos.
+Hola soy Gustavo.
+Me dedico a la docencia.

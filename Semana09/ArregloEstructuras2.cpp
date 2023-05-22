@@ -10,7 +10,7 @@ int main(){
 	// Configuracion
 	setlocale(LC_CTYPE, "Spanish");
 	wstring strW = L"ARREGLO DE ESTRUCTURAS";
-	SetConsoleTitle(strW.c_str());
+	//SetConsoleTitle(strW.c_str());
 
 	
 	// Proceso General
@@ -27,7 +27,7 @@ int main(){
 				procEstadistico();
 				break;
 			case 4:
-				cout << "Opcion 4" << endl;
+				cout << "Chau" << endl;
 				break;											
 		}
 		cout << endl;

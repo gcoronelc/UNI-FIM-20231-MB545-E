@@ -4,6 +4,7 @@ using namespace std;
 int main(int argc, char ** argv) {
 	
 	string datos = "10,30,50,60,80";
+	string datos_copia = datos;
 	string dato;
 	int numero, posicion, suma;
 	
@@ -20,6 +21,7 @@ int main(int argc, char ** argv) {
 		suma += stoi(dato);
 	}
 	
+	cout << "Datos: " << datos_copia << endl;
 	cout << "Suma: " << suma << endl;
 	return 0;	
 }

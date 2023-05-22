@@ -14,7 +14,7 @@ int main() {
 	ofstream archivo;
 	string nombArchivo = "datos.txt";
 
-	// Apertura del archivo
+	// Crea y abre el archivo
 	archivo.open(nombArchivo, ios::out);
 
 	// Validar
@@ -26,7 +26,7 @@ int main() {
 	// Reporte en archivo
 	archivo << "Este es un ejemplo de archivo.\n";
 	archivo << "Esto se pone bueno.\n";
-	archivo << "Ahora todos mis datos iran a archivos.";
+	archivo << "Ahora todos mis datos iran a archivos.\n";
 
 	// Cerrar el archivo
 	archivo.close();

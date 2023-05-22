@@ -16,7 +16,7 @@ int main(){
 	// Configuracion
 	setlocale(LC_CTYPE, "Spanish");
 	wstring strW = L"ARREGLO DE ESTRUCTURAS";
-	SetConsoleTitle(strW.c_str());
+	//SetConsoleTitle(strW.c_str());
 	
 	
 	// Variables
