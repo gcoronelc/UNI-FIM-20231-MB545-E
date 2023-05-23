@@ -31,7 +31,7 @@ int main(){
 		cout << endl;
 		cout << "Nueva linea para el archivo:" << endl;
 		getline(cin, texto);
-
+		// Agregar linea al archivo
 		archivo << texto << endl;
 		// Consulta
 		cout << endl;

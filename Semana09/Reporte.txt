@@ -1,0 +1,6 @@
+PROGRAMACION ORIENTADA A OBJETOS
+NRO 	NOMBRE	NOTA1	NOTA2	PROM	CONDICION 
+-----------------------------------------------------
+1	Artu	15	17	16	Aprobado
+-----------------------------------------------------
+PROMEDIO DEL SALON:16
