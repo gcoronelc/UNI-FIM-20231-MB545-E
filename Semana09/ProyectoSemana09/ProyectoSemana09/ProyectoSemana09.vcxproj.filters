@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Demo03.cpp">
+    <ClInclude Include="libreria2023.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problema01.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

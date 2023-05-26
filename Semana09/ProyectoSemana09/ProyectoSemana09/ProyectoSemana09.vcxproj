@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Demo03.cpp" />
+    <ClInclude Include="libreria2023.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problema01.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
