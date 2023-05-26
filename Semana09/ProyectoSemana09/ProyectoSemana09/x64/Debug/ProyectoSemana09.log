@@ -1,0 +1,3 @@
+﻿  Demo03.cpp
+D:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana09\ProyectoSemana09\ProyectoSemana09\Demo03.cpp(15,40): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ProyectoSemana09.vcxproj -> D:\GustavoCoronel\UNI-FIM-20231-MB545-E\Semana09\ProyectoSemana09\x64\Debug\ProyectoSemana09.exe
