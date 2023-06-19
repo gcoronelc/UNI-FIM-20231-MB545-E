@@ -1,0 +1,4 @@
+﻿  Programa02.cpp
+F:\UNI-FIM\PROG-OO\Laboratorio08\Laboratorio08\Programa02.cpp(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+F:\UNI-FIM\PROG-OO\Laboratorio08\Laboratorio08\ClaseVenta.h(24,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Laboratorio08.vcxproj -> F:\UNI-FIM\PROG-OO\Laboratorio08\Debug\Laboratorio08.exe
