@@ -1,0 +1,17 @@
+ITEM|LADO1|LADO2|LADO3|ESTADO|TIPO|PERÍMETRO|AREA
+1|4|5|7|VÁLIDO|Escaleno|16|9.79796
+2|8|8|8|VÁLIDO|Equilátero|24|27.7128
+3|10|2|3|NO VÁLIDO|-|-|-
+4|8|14|15|VÁLIDO|Escaleno|37|55.3122
+5|20|30|20|VÁLIDO|Isóceles|70|198.431
+6|9|18|22|VÁLIDO|Escaleno|49|78.5553
+7|8|20|3|NO VÁLIDO|-|-|-
+8|16|20|28|VÁLIDO|Escaleno|64|156.767
+9|7|5|13|NO VÁLIDO|-|-|-
+10|19|30|25|VÁLIDO|Escaleno|74|236.525
+
+RESUMEN
+Triángulos inválidos: 3
+Triángulos equiláteros: 1
+Triángulos isóceles: 1
+Triángulos escalenos: 5
